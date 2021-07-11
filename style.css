@@ -1,0 +1,23 @@
+
+body{
+	background-image: url("gif.gif");
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+#MyCanvas
+{
+	border-width:10px;
+	background-color: white; 
+    border-style:ridge;
+    background-image: url("bg_canvas.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#head{
+    color: white;
+    font-family: 'Sansita Swashed', cursive;
+    font-size:40px;
+}
+
